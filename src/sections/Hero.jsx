@@ -14,20 +14,35 @@ const skills = [
     "Next.js",
     "TypeScript",
     "Node.js",
-    "GraphQL",
+    "Express JS",
+    "Rest API",
+    "MySql",
     "PostgreSQL",
     "MongoDB",
     "Redis",
     "Docker",
-    "AWS",
     "Vercel",
+    "Netlify",
     "Tailwind CSS",
     "Prisma",
     "Jest",
-    "Cypress",
     "Figma",
     "Git",
     "GitHub Actions",
+    "Laravel",
+    "LiveWire",
+    "CI/CD",
+    "Codeigniter",
+    "PHP",
+    "Inertia JS",
+    "Vue JS",
+    "Nuxt JS",
+    "JQuery",
+    "Postman",
+    "React Native",
+    "Bootstrap 5",
+    "Material UI",
+    "Laravel API"
 ]
 
 export const Hero = () => {
@@ -75,17 +90,14 @@ export const Hero = () => {
                         {/* Headline */}
                         <div className="space-y-4">
                             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100">
-                                Crafting <span className="text-primary glow-text">digital</span>
-                                <br />
-                                experiences with
+                                Crafting precise <span className="text-primary glow-text">high-impact</span>
                                 <br />
                                 <span className="font-serif italic font-normal text-white">
-                                    precision.
+                                    digital journeys
                                 </span>
                             </h1>
                             <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                                I am a Fullstack Developer with 5+ years of backend experience and a strong track record in delivering complex, high-quality applications.
-                                From building powerful backend systems to creating modern web and mobile interfaces, I provide end-to-end solutions that are scalable, secure, and user-friendly.
+                                Fullstack Developer with 5+ years of backend expertise and a proven history of shipping complex, high-quality applications. I bridge the gap between robust backend architecture and modern frontend interfaces, delivering scalable, secure, and intuitive end-to-end solutions.
                             </p>
                         </div>
 

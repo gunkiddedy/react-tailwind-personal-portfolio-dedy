@@ -84,9 +84,8 @@ export const Hero = () => {
                                 </span>
                             </h1>
                             <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                                Hi, I'm Pedro Machado — a software engineer specializing in
-                                React, Next.js, and TypeScript. I build scalable, performant web
-                                applications that users love.
+                                I am a Fullstack Developer with 5+ years of backend experience and a strong track record in delivering complex, high-quality applications.
+                                From building powerful backend systems to creating modern web and mobile interfaces, I provide end-to-end solutions that are scalable, secure, and user-friendly.
                             </p>
                         </div>
 
@@ -132,7 +131,7 @@ export const Hero = () => {
                             <div className="relative glass rounded-3xl p-2 glow-border">
                                 <img
                                     src="/profile-photo.png"
-                                    alt="Pedro Machado"
+                                    alt="Dedy Setiawan"
                                     className="w-full aspect-[4/5] object-cover rounded-2xl"
                                 />
 
